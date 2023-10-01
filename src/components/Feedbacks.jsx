@@ -1,7 +1,7 @@
 const Feedbacks = () => {
   return (
     <div>
-      Feedbacks
+      Feedbacks.
     </div>
 
   )
